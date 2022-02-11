@@ -4,7 +4,7 @@ Logo e íconos de Perant.
 
 La ortografía correcta es **Isen**
 
-<img src="defecto/SVG/Perant-Logo.svg.svg" width="100%">
+<img src="defecto/SVG/Perant-Logo.svg" width="100%">
 
 * UTILICE nuestro logotipo para vincular a Perant o Isen
 * UTILICE nuestro logotipo en una publicación de blog o artículo de noticias sobre Perant o Isen.
